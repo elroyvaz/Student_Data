@@ -1,7 +1,7 @@
 # Student_Data
 
 ### Introduction
-Welcome to the Data Analyst Read-Me file! This repository contains a project focused on analyzing student data using Excel. The project enables users to import a file, visualize data using different charts, compute statistics, and generate a Word document summarizing the results. 
+Welcome to the Data Analyst Read-Me file! This repository contains a project focused on analyzing student data using Excel. The project enables users to import a file, visualize data using different charts, compute statistics, and generate a Word document summarizing the results. Tools: Microsoft Application, Excel, VBA 
 
 ### Sections:
 
@@ -57,10 +57,11 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 - 🧮 Calculating statistics like minimum, maximum, and average grades provides valuable insights into the performance of students in each course.
 - 📊 The automated report generation simplifies the process of summarizing and sharing analysis results.
 
-## Getting Started
+## Would you like to try this project yourself? & Getting Started!
 To get started with the project:
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your local machine 
 2. Open the Excel project and follow the instructions provided in the README file.
 3. Make sure to have the necessary dependencies installed to run the project successfully.
+4. Note: please make sure to use either the Registrar file provided, or one of similar format
 
 Thank you for viewing the Data Analyst repository! If you have any questions or feedback, feel free to reach out to me. Happy analyzing!
