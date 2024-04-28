@@ -23,6 +23,10 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 - The "courses" sheet contains information about different courses offered.
 - The "grades" sheet contains student grades for each course.
 
+![image](https://github.com/elroyvaz/Student_Data/assets/134976627/237a1dd1-6f4a-4648-9505-f2b7fdd94fec)
+
+
+
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/1b386e61-55a9-4b74-9a6f-0b6124d833b1) 
 
 ### 2. Data Visualization
