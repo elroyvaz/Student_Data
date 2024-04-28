@@ -23,11 +23,14 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 - The "courses" sheet contains information about different courses offered.
 - The "grades" sheet contains student grades for each course.
 
+![image](https://github.com/elroyvaz/Student_Data/assets/134976627/1b386e61-55a9-4b74-9a6f-0b6124d833b1) 
+
 ### 2. Data Visualization
 - Upon importing the data, various charts are automatically generated to provide visual insights into the student data.
 - Charts include bar graphs, scatter plots, or any other appropriate visualizations based on the data characteristics.
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/24b2709d-e30e-44cd-bcd2-396d280f3434)
-![image](https://github.com/elroyvaz/Student_Data/assets/134976627/1b386e61-55a9-4b74-9a6f-0b6124d833b1)
+
+
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/8c287361-a032-49df-863b-697aa73ef106)
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/cc14fe52-2b14-470f-b5c1-de83840ad16d)
 
