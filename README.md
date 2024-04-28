@@ -30,7 +30,8 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/1b386e61-55a9-4b74-9a6f-0b6124d833b1)
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/8c287361-a032-49df-863b-697aa73ef106)
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/cc14fe52-2b14-470f-b5c1-de83840ad16d)
-![image](https://github.com/elroyvaz/Student_Data/assets/134976627/b0b3eaba-cb21-4ad3-ab47-8bf26d12cccd)
+![image](https://github.com/elroyvaz/Student_Data/assets/134976627/00efe33b-98ea-4acf-bed8-f6c514bbad72)
+
 
 ### 3. Statistical Analysis
 - Users are prompted to choose a course from the available options.
