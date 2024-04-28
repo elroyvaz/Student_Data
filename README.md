@@ -30,17 +30,19 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/1b386e61-55a9-4b74-9a6f-0b6124d833b1)
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/8c287361-a032-49df-863b-697aa73ef106)
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/cc14fe52-2b14-470f-b5c1-de83840ad16d)
-![image](https://github.com/elroyvaz/Student_Data/assets/134976627/00efe33b-98ea-4acf-bed8-f6c514bbad72)
-
 
 ### 3. Statistical Analysis
 - Users are prompted to choose a course from the available options.
 - After selecting a course, the system calculates key statistics such as minimum, maximum, and average grades for that course.
 - These statistics are displayed to provide a quick overview of the course performance.
 
+![image](https://github.com/elroyvaz/Student_Data/assets/134976627/00efe33b-98ea-4acf-bed8-f6c514bbad72)
+
 ### 4. Report Generation
 - Finally, a Word file is generated or opened, containing a detailed report of the analysis.
 - The report includes the selected course's statistics, visualizations, and any other relevant findings.
+
+![image](https://github.com/elroyvaz/Student_Data/assets/134976627/a0aaa79f-684f-4ac0-92ea-6f0771660d6a)
 
 ### Key Takeaways:
 - Visualizations aid in better understanding the distribution of student grades across different courses. 🧮
