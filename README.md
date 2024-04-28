@@ -31,15 +31,11 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/237a1dd1-6f4a-4648-9505-f2b7fdd94fec)
 
 
-
-![image](https://github.com/elroyvaz/Student_Data/assets/134976627/1b386e61-55a9-4b74-9a6f-0b6124d833b1) 
-
 ### 2. Data Visualization
 - Upon importing the data, various charts are automatically generated to provide visual insights into the student data.
 - Charts include bar graphs, scatter plots, or any other appropriate visualizations based on the data characteristics.
+  
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/24b2709d-e30e-44cd-bcd2-396d280f3434)
-
-
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/8c287361-a032-49df-863b-697aa73ef106)
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/cc14fe52-2b14-470f-b5c1-de83840ad16d)
 
@@ -57,9 +53,9 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 ![image](https://github.com/elroyvaz/Student_Data/assets/134976627/a0aaa79f-684f-4ac0-92ea-6f0771660d6a)
 
 ### Key Takeaways:
-- Visualizations aid in better understanding the distribution of student grades across different courses. 🧮
-- Calculating statistics like minimum, maximum, and average grades provides valuable insights into the performance of students in each course. 📊
-- The automated report generation simplifies the process of summarizing and sharing analysis results. 📝
+- 📝 Visualizations aid in better understanding the distribution of student grades across different courses.
+- 🧮 Calculating statistics like minimum, maximum, and average grades provides valuable insights into the performance of students in each course.
+- 📊 The automated report generation simplifies the process of summarizing and sharing analysis results.
 
 ## Getting Started
 To get started with the project:
@@ -67,4 +63,4 @@ To get started with the project:
 2. Open the Excel project and follow the instructions provided in the README file.
 3. Make sure to have the necessary dependencies installed to run the project successfully.
 
-Thank you for using the Data Analyst repository! If you have any questions or feedback, feel free to reach out to the project maintainers. Happy analyzing!
+Thank you for viewing the Data Analyst repository! If you have any questions or feedback, feel free to reach out to me. Happy analyzing!
