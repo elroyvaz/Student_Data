@@ -41,8 +41,6 @@ Welcome to the Data Analyst Read-Me file! This repository contains a project foc
 - Calculating statistics like minimum, maximum, and average grades provides valuable insights into the performance of students in each course. 📊
 - The automated report generation simplifies the process of summarizing and sharing analysis results. 📝
 
-## Sections
-
 ## Getting Started
 To get started with the project:
 1. Clone or download the repository to your local machine.
